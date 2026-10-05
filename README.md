@@ -1,7 +1,7 @@
 # Coursenix 🎓
 
 Coursenix is a web-based platform for booking and managing private lessons for middle and high school students.  
-This project was developed as part of our **Field Training** course by a collaborative team of front-end and back-end developers.
+This project was developed by a collaborative team of front-end and back-end developers.
 
 ## 🌟 Project Overview
 
